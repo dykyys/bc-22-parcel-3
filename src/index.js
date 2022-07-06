@@ -6,7 +6,7 @@ import Player from '@vimeo/player';
 // import { refs } from './js/refs';
 import { createMarkup } from './js/createMarkup';
 const refs = getRefs();
-
+console.log(refs);
 const markup = createMarkup(galleryList).join('');
 
 refs.gallery.insertAdjacentHTML('beforeend', markup);
