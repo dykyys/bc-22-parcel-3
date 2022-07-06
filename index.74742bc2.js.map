@@ -1,1 +1,0 @@
-{"mappings":"gfAAA,IACMA,GAAO,EADbC,EAAA,SACaC,WACbC,QAAQC,IAAIJ,G","sources":["src/js/index-2.js"],"sourcesContent":["import { getRefs } from './refs';\nconst refs = getRefs();\nconsole.log(refs);\n"],"names":["$63dc78e3f0ce5094$var$refs","parcelRequire","getRefs","console","log"],"version":3,"file":"index.74742bc2.js.map"}

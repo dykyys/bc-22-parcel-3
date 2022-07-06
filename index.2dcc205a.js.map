@@ -1,1 +1,0 @@
-{"mappings":"oeACA,MAAMA,GAAO,EADbC,EAAA,SACaC,WACbC,QAAQC,IAAIJ","sources":["src/js/index-2.js"],"sourcesContent":["import { getRefs } from './refs';\nconst refs = getRefs();\nconsole.log(refs);\n"],"names":["$6553e67d323cef6b$var$refs","parcelRequire","getRefs","console","log"],"version":3,"file":"index.2dcc205a.js.map"}
